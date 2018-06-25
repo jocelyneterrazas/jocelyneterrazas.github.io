@@ -5,3 +5,4 @@ function myFunction1() {
 function myFunction2() {
     alert("Ha ha! Jk loser:)");
 }
+
